@@ -1,0 +1,3 @@
+repeat,fold,checkpoint,best_joint_macro_f1,best_loss,best_class_acc,best_azimuth_acc,best_mean_acc
+1,1,cv_runs\smoke_baseline\checkpoints\repeat1_fold1.pt,0.008333333333333333,5.304433097839356,0.15,0.035,0.0925
+1,2,cv_runs\smoke_baseline\checkpoints\repeat1_fold2.pt,0.0078125,5.301171169281006,0.12,0.055,0.0875

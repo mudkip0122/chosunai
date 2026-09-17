@@ -1,0 +1,25 @@
+# Local Python environments and installers
+.conda/
+.miniforge/
+Miniforge3-Windows-x86_64.exe
+
+# Competition data and trained model artifacts
+data/
+checkpoints/
+*.pt
+*.pth
+*.joblib
+*.npy
+*.npz
+
+# Python caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+

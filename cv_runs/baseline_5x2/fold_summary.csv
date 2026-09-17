@@ -1,0 +1,2 @@
+split_index,repeat,fold,checkpoint,best_joint_macro_f1,best_loss,best_class_acc,best_azimuth_acc,best_mean_acc
+1,1,1,cv_runs\baseline_5x2\checkpoints\repeat1_fold1.pt,0.6483620369390877,2.046134026845296,0.7029166666666666,0.57375,0.6383333333333333

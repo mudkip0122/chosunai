@@ -1,0 +1,10 @@
+{
+  "arch": "baseline",
+  "folds": 2,
+  "repeats": 1,
+  "epochs": 1,
+  "completed_splits": 1,
+  "mean_fold_joint_macro_f1": 0.008333333333333333,
+  "std_fold_joint_macro_f1": 0.0,
+  "oof_joint_macro_f1": 0.008333333333333333
+}

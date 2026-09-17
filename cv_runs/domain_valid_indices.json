@@ -1,0 +1,11 @@
+{
+  "domain_oof_auc": 0.6800064833333332,
+  "train_rows": 12000,
+  "test_rows": 5000,
+  "validation_rows": 2400,
+  "validation_fraction": 0.2,
+  "mean_propensity_all_train": 0.2677672808563611,
+  "mean_propensity_domain_validation": 0.4314771361960525,
+  "mean_propensity_random_reference": 0.26848627992091034,
+  "min_joint_stratum_validation_count": 12
+}

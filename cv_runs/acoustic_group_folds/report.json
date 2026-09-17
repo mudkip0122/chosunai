@@ -1,0 +1,44 @@
+{
+  "clusters_per_class": 40,
+  "total_groups": 320,
+  "smallest_group": 1,
+  "median_group": 34.5,
+  "largest_group": 388,
+  "folds": [
+    {
+      "fold": 0,
+      "rows": 2484,
+      "groups": 57,
+      "min_joint_count": 6,
+      "max_joint_count": 23
+    },
+    {
+      "fold": 1,
+      "rows": 2366,
+      "groups": 67,
+      "min_joint_count": 5,
+      "max_joint_count": 17
+    },
+    {
+      "fold": 2,
+      "rows": 2395,
+      "groups": 66,
+      "min_joint_count": 7,
+      "max_joint_count": 18
+    },
+    {
+      "fold": 3,
+      "rows": 2369,
+      "groups": 64,
+      "min_joint_count": 7,
+      "max_joint_count": 19
+    },
+    {
+      "fold": 4,
+      "rows": 2386,
+      "groups": 66,
+      "min_joint_count": 5,
+      "max_joint_count": 19
+    }
+  ]
+}
